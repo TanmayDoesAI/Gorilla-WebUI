@@ -7,7 +7,7 @@ This repository hosts a user-friendly Web User Interface (WebUI) built using Gra
 
 ## Introduction
 
-[Gorilla](https://huggingface.co/gorilla-llm) is an advanced language model that enables seamless interaction with APIs using natural language commands. This Colab notebook simplifies the process of conversing with Gorilla through a Gradio-based WebUI.
+[Gorilla LLM](https://huggingface.co/gorilla-llm) is an advanced language model that enables seamless interaction with APIs using natural language commands. This Colab notebook simplifies the process of conversing with Gorilla through a Gradio-based WebUI.
 
 Huge thanks to [@ShishirPatil](https://github.com/ShishirPatil) for creating [Gorilla Repo](https://github.com/ShishirPatil/gorilla)
 
@@ -41,5 +41,3 @@ The Colab notebook can be personalized according to your preferences:
 - Opt for local deployment instead of using Colab, offering flexibility in where and how the WebUI is run.
 
 Feel free to adapt the notebook to suit your specific requirements and enhance the user experience.
-
----
