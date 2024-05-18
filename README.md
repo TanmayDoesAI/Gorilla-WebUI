@@ -41,3 +41,7 @@ The Colab notebook can be personalized according to your preferences:
 - Opt for local deployment instead of using Colab, offering flexibility in where and how the WebUI is run.
 
 Feel free to adapt the notebook to suit your specific requirements and enhance the user experience.
+
+## Recognition
+
+The Gorilla Colab WebUI has received significant recognition and support from the community. Notably, it has been incorporated into the original Gorilla repository and is also showcased on the [Hugging Face Gorilla demo space](https://huggingface.co/spaces/gorilla-llm/gorilla-demo/blob/main/README.md). This acknowledgment underscores the utility and effectiveness of the WebUI in enhancing interactions with the Gorilla API.
